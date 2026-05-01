@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://shwchurch7.github.io/feed.xml" rel="self" type="application/rss+xml" />
 	<link>https://shwchurch7.github.io/</link>
 	<description></description>
-	<lastBuildDate>Fri, 01 May 2026 02:44:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 May 2026 06:11:07 +0000</lastBuildDate>
 	<language>zh-Hans</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,7 +35,10 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<itunes:explicit>false</itunes:explicit>
 	<itunes:image href="https://shwchurch7.github.io/wp-content/uploads/2019/11/podcast-sw.jpg" />
 	<itunes:type>episodic</itunes:type>
-	<itunes:email>lanshunfang@gmail.com</itunes:email>
+	<itunes:owner>
+		<itunes:name>基督教北京守望教会发布</itunes:name>
+		<itunes:email>lanshunfang@gmail.com</itunes:email>
+	</itunes:owner>
 	<copyright>版权归基督教北京守望教会所有 https://shwchurch7.github.io</copyright>
 	<podcast:license>版权归基督教北京守望教会所有 https://shwchurch7.github.io</podcast:license>
 	<podcast:medium>podcast</podcast:medium>
@@ -180,12 +183,12 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 <p><img fetchpriority="high" decoding="async" class="size-medium wp-image-22903 aligncenter" src="https://shwchurch7.github.io/wp-content/uploads/2023/11/4365c9d91585629af6e44f40170bc74f.jpg 832w" sizes="(max-width: 283px) 100vw, 283px" /></p>
 <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
 <audio class="wp-audio-shortcode" id="audio-25452-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://shwchurch7.github.io/wp-content/uploads/2023/11/17f6f5ad4a2158ae5982fc692b07b228.mp3</a></audio>
-<p> </p>
-<p>1 来穿上赞美衣裳，代替忧伤痛悔的灵，扬声向主欢呼！<br />用心灵赞美，也用悟性歌唱，同来尊主为大！<br />锡安必不再忧伤，我来要安慰你，<br />我已将你安置在锡安，喜乐油必使你自由。</p>
+<p>&nbsp;</p>
+<p>1 来穿上赞美衣裳，代替忧伤痛悔的灵，扬声向主欢呼！<br>用心灵赞美，也用悟性歌唱，同来尊主为大！<br>锡安必不再忧伤，我来要安慰你，<br>我已将你安置在锡安，喜乐油必使你自由。</p>
 
 
 
-<p>2 来穿上赞美衣裳，代替忧伤痛悔的灵，扬声向主欢呼！<br>用心灵赞美，也用悟性歌唱，同来尊主为大！<br>下垂的手要举起，歌声也要嘹亮，<br>献上你的赞美祭，扬声在锡安山。</p>
+<p>2 来穿上赞美衣裳，代替忧伤痛悔的灵，扬声向主欢呼！<br>用心灵赞美，也用悟性歌唱，同来尊主为大！<br>下垂的手要举起，歌声也要嘹亮，<br>仍然献上你的赞美祭，扬声在锡安山。</p>
 
 
 
@@ -211,8 +214,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 
 <p><img decoding="async" class="size-medium wp-image-22789 aligncenter" src="https://shwchurch7.github.io/wp-content/uploads/2023/09/2f21707416b22365491d2ffeeafe1b7a.jpg 832w" sizes="(max-width: 283px) 100vw, 283px" /></p>
 <audio class="wp-audio-shortcode" id="audio-25452-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://shwchurch7.github.io/wp-content/uploads/2012/09/20120930002835591.mp3</a></audio>
-<p> </p>
-<p>1 真理圣灵住我心中，自由运行作善工，<br />发出亮光，照耀启示，使我认主并自己。<br />充满我，充满我,耶稣今来充满我,<br />荣耀圣灵，今充满我，愿主现今充满我。</p>
+<p>&nbsp;</p>
+<p>1 真理圣灵住我心中，自由运行作善工，<br>发出亮光，照耀启示，使我认主并自己。<br>充满我，充满我,耶稣今来充满我,<br>荣耀圣灵，今充满我，愿主现今充满我。</p>
 
 
 
@@ -245,8 +248,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 
 
 <audio class="wp-audio-shortcode" id="audio-25452-3" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://shwchurch7.github.io/wp-content/uploads/2013/07/20130705163856547.mp3</a></audio>
-<p> </p>
-<p>1 复兴你工作，主！向你圣徒显现；<br />求你用权发出圣言，让你儿女检点。<br />复兴你工作，主！我们现今等候；<br />但愿正当我们俯伏，你就显现能手！</p>
+<p>&nbsp;</p>
+<p>1 复兴你工作，主！向你圣徒显现；<br>求你用权发出圣言，让你儿女检点。<br>复兴你工作，主！我们现今等候；<br>但愿正当我们俯伏，你就显现能手！</p>
 
 
 
@@ -287,13 +290,13 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 
 
 <audio class="wp-audio-shortcode" id="audio-25452-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://shwchurch7.github.io/wp-content/uploads/2026/05/20260503.mp3</a></audio>
-<p> </p>
+<p>&nbsp;</p>
 <p><strong>回应诗歌：第176（新481）首 我未曾谦卑</strong></p>
-<p> </p>
+<p>&nbsp;</p>
 <p><img loading="lazy" decoding="async" class="size-medium wp-image-22705 aligncenter" src="https://shwchurch7.github.io/wp-content/uploads/2023/08/cbb8fd73f98d9a0d79b20c32942573a2.jpg 842w" sizes="(max-width: 283px) 100vw, 283px" /></p>
 <audio class="wp-audio-shortcode" id="audio-25452-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://shwchurch7.github.io/wp-content/uploads/2013/05/20130504160612397.mp3</a></audio>
-<p> </p>
-<p>以往我未曾谦卑，主！我一向自以为义，<br />直到你向我显现，主！我才俯伏在地；<br />我虽然常逼迫你，主！你大恩却将我寻回，<br />你奇妙爱折服我心，主！我愿终生属于你。</p>
+<p>&nbsp;</p>
+<p>以往我未曾谦卑，主！我一向自以为义，<br>直到你向我显现，主！我才俯伏在地；<br>我虽然常逼迫你，主！你大恩却将我寻回，<br>你奇妙爱折服我心，主！我愿终生属于你。</p>
 
 
 
